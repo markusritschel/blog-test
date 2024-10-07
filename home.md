@@ -23,6 +23,8 @@ custom_fields:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a lacinia orci.
 Nunc sodales massa enim, nec consectetur orci tempus ac.
 
+![](https://www.aakashweb.com/resources/images/pages/sc-lp-basics.png)
+
 ### Section with image
 
 ![alt text for the image](https://www.aakashweb.com/resources/images/pages/sc-lp-basics.png "Caption for the image")
